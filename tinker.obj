@@ -1,6 +1,6 @@
 # Object Export From Tinkercad Server 2015
 
-mtllib obj.mtl
+mtllib https://raw.githubusercontent.com/Sebassss92/models/main/obj.mtl
 
 o obj_0
 v -4 		-30 		20
